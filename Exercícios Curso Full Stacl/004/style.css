@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+div{
+    width: 100%;
+    height: 200px;
+}
+
+div.p{
+    background-color: black;
+}
+
+div.b{
+    background-color: white;
+}
